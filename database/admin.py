@@ -1,3 +1,3 @@
 from django.contrib import admin
-from .models import Eventos
+from .models import Evento
 # Register your models here.
